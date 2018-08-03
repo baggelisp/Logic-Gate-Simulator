@@ -64,3 +64,10 @@ Input 1	Input 2	Output
 
 
 
+
+Images:
+
+
+![alt text](https://github.com/baggelisp/Logic-Gate-Simulator/blob/master/1.jpg?raw=true)
+
+![alt text](https://github.com/baggelisp/Logic-Gate-Simulator/blob/master/2.jpg?raw=true)
